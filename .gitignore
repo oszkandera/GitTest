@@ -4,6 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 TestFile.xml
+TestFile2.xml
 
 # User-specific files
 *.rsuser
